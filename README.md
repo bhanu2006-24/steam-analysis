@@ -49,7 +49,6 @@ The workflow includes:
 ![Dashboard](assets/dashboard4.png)
 ![Dashboard](assets/dashboard5.png)
 
-*(Replace these placeholders with actual screenshots saved in `assets/`.)*
 
 ---
 
